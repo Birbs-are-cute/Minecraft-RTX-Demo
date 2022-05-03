@@ -15,3 +15,6 @@ Ram 4gb,
 Dual Core prossecor,
 Intel G41 Express Chipset or better,
 Directx 10
+# Screenshot
+
+![unknown](https://user-images.githubusercontent.com/83266075/166500500-5d2e4187-1c0b-4db7-a6ff-b1c65dcc8a63.png)
