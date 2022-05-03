@@ -9,6 +9,12 @@ Blockbench,
 CrazyBump,
 Unity 2017.4.40f1
 
+# Important Note
+
+Some Textures are taken From Original Minecraft.
+I don't Own those textures.
+Those textures are made by Mojang and Microsoft.
+
 # Minimum System Requirments:
 
 Ram 4gb,
